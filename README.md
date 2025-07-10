@@ -60,8 +60,8 @@ Each folder contains:
 To clone and explore this repo locally:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Amaresh1018/Python.git
+cd Python
 ```
 
 Browse folders based on your learning goal. Each `.py` file includes:
